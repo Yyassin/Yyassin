@@ -4,7 +4,7 @@
   <img align="left" alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-[![GitHub yyassin](https://img.shields.io/github/followers/yyassin?label=follow&style=social)](https://github.com/iampawan)
+[![GitHub yyassin](https://img.shields.io/github/followers/yyassin?label=follow&style=social)](https://github.com/yyassin)
 [![website](https://img.shields.io/badge/PortfolioWebsite-yousef.dev-2648ff?style=flat-square&logo=google-chrome)](https://yyassin.github.io/Portfolio/)
 
 <br/>
@@ -20,6 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
