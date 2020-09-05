@@ -10,8 +10,8 @@
 <br/>
 
 - ✏️ I'm currently focusing on Computer Systems @ Carleton.
-- 🔭 Project at the moment involves working on web/mobile-related applications with React Native.
-- 🎾  Some of my interests outside of tech include tennis and graphic design.
+- 🔭 Working on web/mobile-related projects with React Native.
+- 🎾 Some of my interests outside of tech include tennis and graphic design.
 
 
 **Languages and Tools:**  
