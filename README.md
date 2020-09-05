@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hey there, I'm [Yousef Yassin!](https://yyassin.github.io/Portfolio/) ✌️
 
-<!--
-**Yyassin/Yyassin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/yousefy">
+  <img align="left" alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+[![GitHub yyassin](https://img.shields.io/github/followers/yyassin?label=follow&style=social)](https://github.com/iampawan)
+[![website](https://img.shields.io/badge/PortfolioWebsite-yousef.dev-2648ff?style=flat-square&logo=google-chrome)](https://yyassin.github.io/Portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+- ✏️ I'm currently focusing on Computer Systems @ Carleton.
+- 🔭 Project at the moment involves working on web/mobile-related applications with React Native.
+- 🎾  Some of my interests outside of tech include tennis and graphic design.
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<a href="https://github.com/yyassin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyassin&theme=light&hide_langs_below=1" />
+</a>
+
+
+<div align="center">
+
+</div>
